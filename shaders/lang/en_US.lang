@@ -65,11 +65,6 @@ option.AOSTEPS=AO sample pairs
 
 option.AO_STRENGTH=AO strength
 
-option.AA_TYPE=Temporal sampling
-value.AA_TYPE.0=Off
-value.AA_TYPE.1=Denoise
-value.AA_TYPE.2=TAA
-value.AA_TYPE.3=Sharp TAA
 
 option.MOTION_BLUR=Motion blur
 option.MOTION_BLUR_STRENGTH=Motion blur strength
@@ -105,13 +100,7 @@ option.CLOUD_REFLECTION=Vol. clouds reflection
 
 option.WAVING=Waving plants
 value.WAVING.0=No
-value.WAVING.1=Yes
-
-option.CHROMA_ABER=Chroma aberration
-value.CHROMA_ABER.0=No
-value.CHROMA_ABER.1=Yes
-
-option.CHROMA_ABER_STRENGTH=Chroma aberration strength
+value.WAVING.1=
 
 option.WATER_ABSORPTION=Water absorption index
 
